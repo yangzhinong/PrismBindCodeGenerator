@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PrismBindPropertyCodeGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\work\\ydl\\Hello.cs cmd"
+    }
+  }
+}
